@@ -1,7 +1,7 @@
 {
-  "name": "taxicab-distance",
+  "name": "advent-of-code-2016",
   "version": "1.0.0",
-  "description": "",
+  "description": "Advent of Code 2016 Solutions",
   "author": "Álvaro Larumbe <biobiotm@gmail.com>",
   "license": "ISC",
   "dependencies": {
