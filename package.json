@@ -1,0 +1,10 @@
+{
+  "name": "taxicab-distance",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Álvaro Larumbe <biobiotm@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6"
+  }
+}
